@@ -3,6 +3,8 @@
 i really need any job right now. <br>
 please hire me.
 
+![GitHub Stats for Janik](https://github-readme-stats.vercel.app/api?username=JanikThePanic&show_icons=true)
+
 <!--
 **JanikThePanic/JanikThePanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
