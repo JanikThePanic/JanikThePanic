@@ -1,7 +1,9 @@
-### Hi there 👋
+### hello 👋
 
-i really need any job right now. <br>
-please hire me.
+thank you for visiting <br>
+wanna hang out?
+
+🔭 currently working on laika
 
 ![GitHub Stats for Janik](https://github-readme-stats.vercel.app/api?username=JanikThePanic&show_icons=true)
 
