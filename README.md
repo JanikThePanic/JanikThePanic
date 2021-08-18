@@ -3,7 +3,9 @@
 thank you for visiting <br>
 wanna hang out?
 
-🔭 currently working on laika
+uWaterloo tron please take me
+
+<!-- 🔭 currently working on ____ -->
 
 ![GitHub Stats for Janik](https://github-readme-stats.vercel.app/api?username=JanikThePanic&show_icons=true)
 
