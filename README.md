@@ -3,7 +3,7 @@
 thank you for visiting <br>
 wanna hang out?
 
-uWaterloo tron please take me
+uWaterloo tron please reject me faster
 
 <!-- 🔭 currently working on ____ -->
 
