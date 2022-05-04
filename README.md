@@ -1,9 +1,9 @@
 ### hello 👋
 
-thank you for visiting <br>
-wanna hang out?
+<!-- thank you for visiting <br>
+wanna hang out? -->
 
-uWaterloo tron please reject me faster
+k
 
 <!-- 🔭 currently working on ____ -->
 
