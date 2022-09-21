@@ -1,9 +1,7 @@
 ### hello 👋
 
-<!-- thank you for visiting <br>
-wanna hang out? -->
-
-k
+thank you for visiting <br>
+wanna hang out?
 
 <!-- 🔭 currently working on ____ -->
 
