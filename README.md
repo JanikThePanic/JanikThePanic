@@ -5,7 +5,8 @@ wanna hang out?
 
 <!-- 🔭 currently working on ____ -->
 
-![GitHub Stats for Janik](https://github-readme-stats.vercel.app/api?username=JanikThePanic&show_icons=true)
+<!-- dont have the best stats rn so will hide them -->
+<!-- ![GitHub Stats for Janik](https://github-readme-stats.vercel.app/api?username=JanikThePanic&show_icons=true) -->
 
 <!--
 **JanikThePanic/JanikThePanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
