@@ -3,6 +3,10 @@
 thank you for visiting <br>
 wanna hang out?
 
+visit janik.codes
+
+Currently, I am seeking an intern/co-op position for the summer of 2024.
+
 <!-- 🔭 currently working on ____ -->
 
 <!-- dont have the best stats rn so will hide them -->
