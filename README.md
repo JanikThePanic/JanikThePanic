@@ -3,7 +3,7 @@
 thank you for visiting <br>
 wanna hang out?
 
-visit janik.codes
+visit [janik.codes](https://janik.codes/)
 
 Currently, I am seeking an intern/co-op position for the summer of 2024.
 
