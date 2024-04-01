@@ -5,7 +5,7 @@ wanna hang out?
 
 visit [janik.codes](https://janik.codes/)
 
-Currently, I am seeking an intern/co-op position for the summer of 2024.
+<!-- Currently, I am seeking an intern/co-op position for the summer of 2024. -->
 
 <!-- 🔭 currently working on ____ -->
 
